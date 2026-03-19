@@ -1,16 +1,16 @@
 {
     "Group": "SLS",
     "Name": "TemplateGradle",
-    "Version": "0.0.0",
-    "Description": "Description of your plugin",
+    "Version": "0.0.1",
+    "Description": "Um plugin que cumprimenta",
     "Authors": [
         {
-            "Name": "Your Name",
-            "Email": "your.email@example.com",
-            "Url": "https://your-website.com"
+            "Name": "Sílvio Luiz da Silva",
+            "Email": "falecom@silvioluizsilva.net.br",
+            "Url": "https://silvioluizsilva.net.br"
         }
     ],
-    "Website": "https://your-plugin-website.com",
+    "Website": "https://silvioluizsilva.net.br",
     "DisabledByDefault": false,
     "IncludesAssetPack": false,
     "Dependencies": {},
